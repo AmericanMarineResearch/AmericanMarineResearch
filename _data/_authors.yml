@@ -1,0 +1,42 @@
+# /_data/authors.yml
+
+
+Billy Rick:
+  name: "Billy Rick"
+  uri: "http://thewhip.com"
+  email: "billy@rick.com"
+  bio: "What do you want, jewels? I am a very extravagant man."
+  avatar: "/assets/images/bio-photo-2.jpg"
+  twitter: "extravagantman"
+
+Cornelius Fiddlebone:
+  name: "Cornelius Fiddlebone"
+  email: "cornelius@thewhip.com"
+  bio: "I ordered what?"
+  avatar: "/assets/images/bio-photo.jpg"
+  twitter: "rhymeswithsackit"
+
+Jake Wang:
+  name: "Jake Wang"
+  email: "yuan@americanmarineresearch.org"
+  bio: "Mathematician"
+  avatar: "/assets/images/bio-photo.jpg"
+
+Ian Switzer:
+  name: "Ian Switzer"
+  email: "ian@americanmarineresearch.org"
+  bio: "Electrical Engineer"
+  avatar: "/assets/images/bio-photo.jpg"
+
+Duncan Michael:
+  name: "Duncan Michael"
+  email: "duncan@americanmarineresearch.org"
+  bio: "Mechanical Engineer"
+  avatar: "/assets/images/bio-photo.jpg"
+
+Taylor Njaka:
+  name: "Taylor Njaka"
+  email: "taylor@americanmarineresearch.org"
+  bio: "Mechanical Engineer"
+  avatar: "/assets/images/bio-photo.jpg"
+

@@ -1,0 +1,55 @@
+---
+title: Blog
+layout: archive
+author_profile: true
+permalink: /blog/
+---
+
+<!-- <ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul> -->
+
+{% for post in site.posts %}
+  * {{ post.date | date_to_string }} &raquo; [ {{ post.title }} ]({{ post.url }})
+{% endfor %}
+
+<div class="grid__wrapper">
+  {% for post in site.portfolio %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+</div>
+
+<!-- {% for post in site.posts limit:20 %}
+<entry>
+  <title type="html"><![CDATA[{{ post.title | cdata_escape }}]]></title>
+ <link rel="alternate" type="text/html" href="{% if post.link %}{{ post.link }}{% else %}{{ site.url }}{{ post.url }}{% endif %}" />
+  <id>{{ site.url }}{{ post.id }}</id>
+  {% if post.modified %}<updated>{{ post.modified | to_xmlschema }}T00:00:00-00:00</updated>
+  <published>{{ post.date | date_to_xmlschema }}</published>
+  {% else %}<published>{{ post.date | date_to_xmlschema }}</published>
+  <updated>{{ post.date | date_to_xmlschema }}</updated>{% endif %}
+  {% assign author = site.data.authors[post.author] %}
+  {% if author %}
+  <author>
+    <name>{{ author.name }}</name>
+    <uri>{{ author.site }}</uri>
+    {% if author.email %}
+    <email>{{ author.email }}</email>
+    {% endif %}
+  </author>
+  {% else %}
+  <author>
+    <name>{{ post.author }}</name>
+    <uri>{{ site.url }}</uri>
+    <email>{{ site.owner.email }}</email>
+  </author>
+  {% endif %}
+  <content type="html">
+    {{ post.content | xml_escape }}
+  </content>
+</entry>
+{% endfor %} -->
