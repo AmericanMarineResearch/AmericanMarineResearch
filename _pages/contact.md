@@ -4,7 +4,9 @@ layout: splash
 author_profile: false
 permalink: /contact/
 
-excerpt: "We're here to share!"
+excerpt: "Don't be shy! Reach out to us anytime. We're quick to respond via email and we're usually in the office 10am-1am, 7 days a week."
+header:
+  overlay_image: /assets/images/banner4.png
 ---
 
 ## Team
