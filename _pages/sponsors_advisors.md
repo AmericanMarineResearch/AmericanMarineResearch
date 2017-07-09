@@ -16,8 +16,12 @@ feature_row:
     excerpt: "Sponsor"
   - image_path: /assets/images/placeholder1.png
     alt: "placeholder image 1"
+    title: "Coastwatch Alliance"
+    excerpt: "The Coastwatch Alliance is a Pensacola-based 501(c)3 nonprofit dedicated to marine conservation, especially lionfish control and awareness."
+  - image_path: /assets/images/placeholder1.png
+    alt: "placeholder image 1"
     title: "Grace Young"
-    excerpt: "Advisor"
+    excerpt: "Grace is an MIT ocean engineer, aquanaut, and scientist with Cousteau's Mission 31. She's currently a PhD student at University of Oxford, chief scientist for the Pisces VI deepsea submarine, and National Geographic Emerging Explorer."
   - image_path: /assets/images/placeholder1.png
     alt: "placeholder image 1"
     title: "David Fries"
