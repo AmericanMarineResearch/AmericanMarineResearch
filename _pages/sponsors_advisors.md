@@ -19,6 +19,10 @@ feature_row:
     title: "Grace Young"
     excerpt: "Advisor"
   - image_path: /assets/images/placeholder1.png
+    alt: "placeholder image 1"
+    title: "David Fries"
+    excerpt: 'David Fries is an interdisciplinary Research Scientist, at the Florida Institute for Human & Machine Cognition (IHMC). Fries’ research interests span a wide range of disciplines and fields exploring the underlying thread of technology as an amplifier for exploration and discovery of the natural world and the human condition. He is especially interested in applying technology to the ocean world, or "inner space"'
+  - image_path: /assets/images/placeholder1.png
     alt: "placeholder image 2"
     title: "Manyu Belani"
     excerpt: "Advisor"
@@ -27,7 +31,7 @@ feature_row:
     excerpt: "Advisor"
   - image_path: /assets/images/placeholder1.png
     title: "Alex Fogg"
-    excerpt: "Advisor"
+    excerpt: "Alex Fogg has been involved in Lionfish research for the last 6 years.  His initial interest in Lionfish resulted in the development of a Gulf of Mexico wide Lionfish life history project and a Masters of Science from the University of Southern Mississippi.  Currently Alex works as a Fisheries Biologist for the Florida Fish and Wildlife Conservation Commission where he manages the states largest artificial reef project in history."
   - image_path: /assets/images/placeholder1.png
     title: "Steven Gitting"
     excerpt: "Advisor"
