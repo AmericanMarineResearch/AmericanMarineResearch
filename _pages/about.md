@@ -8,29 +8,27 @@ excerpt: "Not your average college startup."
 header:
   overlay_image: /assets/images/banner2.png
 
-
-
 feature_row:
-  - image_path: /assets/images/placeholder1.png
-    title: "William Betrand"
-    excerpt: "Software Engineer"
-  - image_path: /assets/images/placeholder1.png
-    title: "Ethan Gordon"
-    excerpt: "Software Engineer"
-  - image_path: /assets/images/placeholder1.png
-    alt: "placeholder image 1"
-    title: "Duncan Michael"
-    excerpt: "Mechanical Engineer"
-  - image_path: /assets/images/placeholder1.png
+  - image_path: /assets/images/ian1.png
+    title: "Ian Switzer"
+    excerpt: "Ian specializes in both robotics and hardware development. Though he has extensive knowledge in typical electrical engineer skills such as digital circuit design, PCB design/inhouse manufacturing, and FPGA/microcontroller usage he is also very well versed in mechanical design/CAD, computer programming, and embedded firmware development. Ian attributes this knowledge to the dozens of projects he has pursued in which he designed and built a wide range of devices including but not limited to rapidly and autonomously recharging drones, autonomous weaponized robots, and an intelligent high load power distribution board. Ian has also demonstrated extreme competency in 3D printer technology and usage."
+  - image_path: /assets/images/taylor1.png
     alt: "placeholder image 2"
     title: "Taylor Njaka"
-    excerpt: "Mechanical Engineer"
-  - image_path: /assets/images/placeholder1.png
-    title: "Ian Switzer"
-    excerpt: "Electrical Engineer"
-  - image_path: /assets/images/placeholder1.png
+    excerpt: "Taylor specializes in underwater robotics, and has had experience with computer and general electronic hardware, as well as advanced control systems. In his undergraduate career, he designed and fabricated an inexpensive ocean wave energy generator using extensive MATLAB optimization for maximum power output and cost analysis. He was recently the project lead on novel type of ROV omnidirectional propulsion system designed w/ helicopter based controls for MIT’s Marine Robotics Team. He also has experience with ocean wave gliders and other forms of marine propulsion, and is a former FRC Robotics world champion."
+  - image_path: /assets/images/duncan1.png
+    alt: "placeholder image 1"
+    title: "Duncan Michael"
+    excerpt: "Duncan attended high school on the Big Island of Hawai'i where learned to scuba dive and became an avid spear fisherman. For the past four years he has attended Olin College of Engineering in Needham, Massachusetts where he has designed and built drones, medical devices, and off-road race cars, in addition to over 70 other group and personal projects. He specializes in advanced mechanical design computer aided design for manufacturing. He has applied his expertise to all design projects at AMRC. In addition to his product design and manufacturing, Duncan builds test rigs in order to validate design decisions and improve said designs."
+  - image_path: /assets/images/yuan1.png
     title: "Yuan Wang"
-    excerpt: "Mathematician"
+    excerpt: "Yuan is a product manager and mathematician hailing from Los Angeles, California, serving as a software engineer for AMRC. He has worked at data modeling, software engineering, and product management capacities at high powered firms in aerospace, computer vision, and the hedge fund industry. During his undergraduate years at Princeton University, Yuan served as President of the Princeton University Cycling Team, led student startups in digital health and thin client application streaming, served as a mentor at top college hackathons, and volunteered with a number of organizations working in causes ranging from global poverty to homelessness in LA to cancer research."
+  - image_path: /assets/images/placeholder1.png
+    title: "William Betrand"
+    excerpt: "Will is a software engineer with extensive experience in rapid prototyping and computer vision currently contributing to AMRC's work in artificial intelligence and computer vision. At Princeton University, Will was a varsity cross country and track runner and led a number of student-used applications, as well cloud streaming software."
+  - image_path: /assets/images/placeholder1.png
+    title: "Ethan Gordon"
+    excerpt: "Ethan is an electrical engineer hailing from Chicago, IL contributing a strong theoretical background in electrical engineering and physics. At Princeton, Ethan graduated with highest honors from the Electrical Engineering department and was a strong contributor on a wide range of academic academic research."
 
 
 ---

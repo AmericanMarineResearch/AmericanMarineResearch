@@ -17,7 +17,7 @@ feature_row:
   - image_path: /assets/images/placeholder1.png
     alt: "placeholder image 1"
     title: "Coastwatch Alliance"
-    excerpt: "The Coastwatch Alliance is a Pensacola-based 501(c)3 nonprofit dedicated to marine conservation, especially lionfish control and awareness."
+    excerpt: "The Coastwatch Alliance is a Pensacola-based 501(c)3 nonprofit dedicated to marine conservation, especially lionfish control and awareness.3"
   - image_path: /assets/images/placeholder1.png
     alt: "placeholder image 1"
     title: "Grace Young"
