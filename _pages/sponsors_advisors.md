@@ -20,16 +20,8 @@ feature_row:
     excerpt: "The Coastwatch Alliance is a Pensacola-based 501(c)3 nonprofit dedicated to marine conservation, especially lionfish control and awareness.3"
   - image_path: /assets/images/placeholder1.png
     alt: "placeholder image 1"
-    title: "Grace Young"
-    excerpt: "Grace is an MIT ocean engineer, aquanaut, and scientist with Cousteau's Mission 31. She's currently a PhD student at University of Oxford, chief scientist for the Pisces VI deepsea submarine, and National Geographic Emerging Explorer."
-  - image_path: /assets/images/placeholder1.png
-    alt: "placeholder image 1"
     title: "David Fries"
     excerpt: 'David Fries is an interdisciplinary Research Scientist, at the Florida Institute for Human & Machine Cognition (IHMC). Fries’ research interests span a wide range of disciplines and fields exploring the underlying thread of technology as an amplifier for exploration and discovery of the natural world and the human condition. He is especially interested in applying technology to the ocean world, or "inner space"'
-  - image_path: /assets/images/placeholder1.png
-    alt: "placeholder image 2"
-    title: "Manyu Belani"
-    excerpt: "Advisor"
   - image_path: /assets/images/placeholder1.png
     title: "Meaghan Faletti"
     excerpt: "Advisor"
@@ -39,10 +31,6 @@ feature_row:
   - image_path: /assets/images/placeholder1.png
     title: "Steven Gitting"
     excerpt: "Advisor"
-  - image_path: /assets/images/placeholder1.png
-    alt: "Martin Shkreli"
-    title: "Martin Shkreli"
-    excerpt: "Sponsor"
 
 ---
 
