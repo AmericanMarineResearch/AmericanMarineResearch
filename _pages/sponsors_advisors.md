@@ -31,6 +31,9 @@ feature_row:
   - image_path: /assets/images/placeholder1.png
     title: "Steven Gitting"
     excerpt: "Advisor"
+  - image_path: /assets/images/yuan1.png
+    title: "Yuan Wang"
+    excerpt: "Yuan is a product manager and mathematician hailing from Los Angeles, California. He has worked at data modeling, software engineering, and product management capacities at high powered firms in aerospace, computer vision, and the hedge fund industry."
 
 ---
 
