@@ -29,7 +29,7 @@ feature_row:
     title: "Alex Fogg"
     excerpt: "Alex Fogg has been involved in Lionfish research for the last 6 years.  His initial interest in Lionfish resulted in the development of a Gulf of Mexico wide Lionfish life history project and a Masters of Science from the University of Southern Mississippi.  Currently Alex works as a Fisheries Biologist for the Florida Fish and Wildlife Conservation Commission where he manages the states largest artificial reef project in history."
   - image_path: /assets/images/placeholder1.png
-    title: "Steven Gitting"
+    title: "Steven Gittings"
     excerpt: "Dr. Steve Gittings is Chief Scientist of NOAA's Office of National Marine Sanctuaries.  On of his roles is to advise people and organizations on technology development, most recently for the purpose of controlling lionfish populations.  He is also developing new traps that may help create a fishery for lionfish, and tap into market solutions for the control of this invasive species."
 
 ---
