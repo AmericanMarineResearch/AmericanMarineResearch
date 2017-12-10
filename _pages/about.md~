@@ -35,9 +35,11 @@ feature_row:
     title: "William Betrand"
     excerpt: "Will is a software engineer with extensive experience in rapid prototyping and computer vision currently contributing to AMRC's work in artificial intelligence and computer vision. At Princeton University, Will was a varsity cross country and track runner and led a number of student-used applications, as well cloud streaming software."
 
-  - image_path: /assets/images/yuan1.png
-    title: "Yuan Wang"
-    excerpt: "Yuan is a product manager and mathematician hailing from Los Angeles, Californaa. He has worked at data modeling, software engineering, and product management capacities at high powered firms in aerospace, computer vision, and the hedge fund industry."
+  - image_path: /assets/images/placeholder1.png
+    title: "Ethan Gordon"
+    excerpt: "Ethan is an electrical engineer hailing from Chicago, IL contributing a strong theoretical background in electrical engineering and physics. At Princeton, Ethan graduated with highest honors from the Electrical Engineering department and was a strong contributor on a wide range of academic academic research."
+
+
 ---
 # Out of the Dorm Room
 Founded in early 2017 by a group of engineering students out of forms at MIT, Princeton University, Olin College and Cornell University, we began as a hacker-maker project to build a drone to hunt invasive lionfish. As the team accelerated its development, however, it realized that the scope of the problem and the magnitude of its devastation required more than a hobbyist effort to have an impact. It was out of that realization that AMRC grew until a tech startup, still committed to its original social mission, but now equipped with the resources and energy of an early stage tech startup. What was originally an exercise in hardware hacking had grown into a commitment to leverage everything a scrappy but driven team of young engineers had to offer. 
